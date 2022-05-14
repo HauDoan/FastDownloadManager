@@ -30,42 +30,31 @@
 <br>
 
 <!-- MỤC LỤC -->
-<details>
-  <summary><b>Mục lục</b></summary>
-  <ol>
-    <li>
-        <a href="#gioi-thieu">Giới thiệu</a>
-    </li>
-    <li>
-        <a href="#">Yêu cầu</a>
-        <ul>
-          <li><a href="#">Hướng dẫn cài đặt VideoLibrary</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#getting-started">Cách thực thi ứng dụng</a>
-        <ul>
-          <li><a href="#">Trực tiếp: (Sau khi tải về)</a></li>
-          <li><a href="#">Gián tiếp: (GitHub)</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#">Kiến thức cơ bản</a>
-        <ul>
-          <li><a href="#">Builder Pattern</a></li>
-          <li><a href="#">Pattern 2</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#">Thông tin người phát triển</a>
-    </li>
-  </ol>
-</details>
+# Mục lục
+  - [A. Giới thiệu](#a-giới-thiệu)
+  - [B. Yêu cầu:](#b-yêu-cầu)
+        - [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)
+  - [C. Cách thực thi ứng dụng:](#c-cách-thực-thi-ứng-dụng)
+        - [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)
+        - [Gián tiếp: (GitHub)](#gián-tiếp-github)
+  - [D. Kiến thức cơ bản:](#d-kiến-thức-cơ-bản)
+      - [Builder Pattern:](#builder-pattern)
+        - [Giới thiệu:](#giới-thiệu)
+        - [Lý do áp dụng:](#lý-do-áp-dụng)
+        - [Thông tin ứng dụng Pattern:](#thông-tin-ứng-dụng-pattern)
+          - [Folder Structure Builder pattern:](#folder-structure-builder-pattern)
+        - [Kết quả triển khai:](#kết-quả-triển-khai)
+      - [Pattern 2:](#pattern-2)
+        - [Giới thiệu:](#giới-thiệu-1)
+        - [Lý do áp dụng:](#lý-do-áp-dụng-1)
+        - [Thông tin ứng dụng Pattern:](#thông-tin-ứng-dụng-pattern-1)
+        - [Kết quả triển khai:](#kết-quả-triển-khai-1)
+    - [Thông tin người phát triển:](#thông-tin-người-phát-triển)
 <br>
 
 
 <!--GIỚI THIỆU PROJECT-->
-## A. Giới thiệu
+# A. Giới thiệu
 
 ![app](https://i.imgur.com/VH7hNxi.png)
 **Chức năng:**
@@ -76,7 +65,7 @@
 
 
 <!-- YÊU CẦU PROJECT-->
-## B. Yêu cầu: 
+# B. Yêu cầu: 
 
 ![vsstudio](/assets/vsstudio.png)
 
@@ -95,7 +84,7 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
 
 
 <!-- HƯỚNG DẪN KHỞI CHẠY PROJECT-->
-## C. Cách thực thi ứng dụng:
+# C. Cách thực thi ứng dụng:
 
 <!-- KHỞI CHẠY TRỰC TIẾP PROJECT-->
 #### Trực tiếp: (Sau khi tải về)
