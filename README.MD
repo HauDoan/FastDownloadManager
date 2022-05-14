@@ -57,7 +57,7 @@
   5. [Thông tin người phát triển:](#e-thông-tin-người-phát-triển)
 
 <!--GIỚI THIỆU PROJECT-->
-# A. Giới thiệu
+# 1. Giới thiệu
 
 ![app](https://i.imgur.com/VH7hNxi.png)
 **Chức năng:**
@@ -68,7 +68,7 @@
 
 
 <!-- YÊU CẦU PROJECT-->
-# B. Yêu cầu
+# 2. Yêu cầu
 
 ![vsstudio](/assets/vsstudio.png)
 
@@ -89,7 +89,7 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
 
 
 <!-- HƯỚNG DẪN KHỞI CHẠY PROJECT-->
-# C. Cách thực thi ứng dụng:
+# 3. Cách thực thi ứng dụng:
 
 <!-- KHỞI CHẠY TRỰC TIẾP PROJECT-->
 ### Trực tiếp: (Sau khi tải về)
@@ -121,7 +121,7 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
   
 
 <!-- GIỚI THIỆU, LÝ DO ÁP DỤNG PATTERN VÀO PROJECT-->
-# D. Kiến thức cơ bản
+# 4. Kiến thức cơ bản
 
 ### Builder Pattern
 
@@ -907,7 +907,7 @@ else
 <!-- CLASS DIAGRAM FACTORY METHOD-->
 ![FactoryDiagram](/assets/FactoryDiagram.png)
 
-# E. Thông tin người phát triển:
+# 5. Thông tin người phát triển:
 
 - LÊ THÀNH ĐẠT (bạn học).
 - NGUYỄN NGỌC KHA (bạn học).
