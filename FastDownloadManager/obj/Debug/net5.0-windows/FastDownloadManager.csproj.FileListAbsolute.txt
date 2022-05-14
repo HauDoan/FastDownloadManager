@@ -1,0 +1,261 @@
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManager\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\GIUA KI\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\ThuyetTrinh\SRC CODE\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\Downloads\CDCNPM_N4_51802077_51802083_51802085_TieuLuan\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+C:\Users\Asus\OneDrive\Máy tính\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\letha\OneDrive\Desktop\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\Source Code\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Asus\Downloads\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+D:\HKI NAM 4\CHUYEN DE CNPM\CUOIKI\51802077-51802083-51802085-51801039\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.exe
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.deps.json
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.json
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\NiL.JS.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\bin\Debug\net5.0-windows\libvideo.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.FileDownloader.resources
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Form1.resources
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.Properties.Resources.resources
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.AssemblyInfo.cs
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.csproj.CopyComplete
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\ref\FastDownloadManager.dll
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.pdb
+C:\Users\Admin\source\repos\source demo\FastDownloadManagerProject\FastDownloadManager\obj\Debug\net5.0-windows\FastDownloadManager.genruntimeconfig.cache
