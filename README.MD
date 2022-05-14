@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="asset/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">TIỂU LUẬN</h1>
    <h3>Áp dụng Design Pattern vào ứng dụng</h3>
