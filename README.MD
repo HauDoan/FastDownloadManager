@@ -49,7 +49,7 @@
         - [Lý do áp dụng:](#lý-do-áp-dụng-1)
         - [Thông tin ứng dụng Pattern:](#thông-tin-ứng-dụng-pattern-1)
         - [Kết quả triển khai:](#kết-quả-triển-khai-1)
-    - [Thông tin người phát triển:](#thông-tin-người-phát-triển)
+  - [E. Thông tin người phát triển:](#e-thông-tin-người-phát-triển)
 <br>
 
 
@@ -215,5 +215,5 @@ Object **FileDownloader** là đối tượng khởi tạo trong **Builder patte
 #### Kết quả triển khai:
 
 # E. Thông tin người phát triển:
-LÊ THÀNH ĐẠT - 51802095
-NGUYỄN NGỌC KHA - 51802083
+- LÊ THÀNH ĐẠT - 51802095
+- NGUYỄN NGỌC KHA - 51802083
