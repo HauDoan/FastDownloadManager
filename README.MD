@@ -14,15 +14,15 @@
     <br>
     <br>
 <p>
-        <div style="text-align: right">
-            <p style="line-height: 1.0">
+        <div >
+            <p style="line-height: 1.0" dir ="rtl">
                 <i>Giảng viên:</i><b> Thầy Đặng Huỳnh Trung Tín</b>
             </p>
-            <p style="line-height:1.0">
+            <p style="line-height: 1.0"dir ="rtl">
                 <i>Người thực hiện:</i>
                     <b>Đoàn Nguyễn Văn Hậu - 51800747</b>
             </p>
-            <p style="line-height:1.0">
+            <p style="line-height: 1.0" dir ="rtl">
                     <b>Nguyễn Trường Khương Duy - 51800371 </b>
             </p>
         </div>
@@ -30,42 +30,32 @@
 <br>
 
 <!-- MỤC LỤC -->
-<details>
-  <summary><b>Mục lục</b></summary>
-  <ol>
-    <li>
-        <a href="#gioi-thieu">Giới thiệu</a>
-    </li>
-    <li>
-        <a href="#">Yêu cầu</a>
-        <ul>
-          <li><a href="#">Hướng dẫn cài đặt VideoLibrary</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#getting-started">Cách thực thi ứng dụng</a>
-        <ul>
-          <li><a href="#">Trực tiếp: (Sau khi tải về)</a></li>
-          <li><a href="#">Gián tiếp: (GitHub)</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#">Kiến thức cơ bản</a>
-        <ul>
-          <li><a href="#">Builder Pattern</a></li>
-          <li><a href="#">Pattern 2</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#">Thông tin người phát triển</a>
-    </li>
-  </ol>
-</details>
-<br>
+# Mục lục
 
+  1. [Giới thiệu](#a-giới-thiệu)
+  2. [Yêu cầu:](#b-yêu-cầu)
+    2.1 [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)
+  3. [Cách thực thi ứng dụng:](#c-cách-thực-thi-ứng-dụng)
+    3.1 [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)
+    3.2 [Gián tiếp: (GitHub)](#gián-tiếp-github)
+  4. [Kiến thức cơ bản:](#d-kiến-thức-cơ-bản)
+      4.1 [Builder Pattern](#builder-pattern)
+        - [Giới thiệu](#giới-thiệu-builder-pattern)
+        - [Lý do áp dụng](#lý-do-áp-dụng-builder-pattern)
+        - [Thông tin ứng dụng Pattern](#thông-tin-ứng-dụng-builder-pattern)
+        - [Folder Structure Builder pattern:](#folder-structure-builder-pattern)
+        - [Kết quả triển khai](#kết-quả-triển-khai-builder-pattern)
+
+      4.2 [Factory Method](#factory-method)
+        - [Giới thiệu](#giới-thiệu-factory-method)
+        - [Lý do áp dụng](#lý-do-áp-dụng-factory-method)
+        - [Thông tin ứng dụng](#thông-tin-ứng-dụng-factory-method)
+        - [Kết quả triển khai](#kết-quả-triển-khai-factory-method)
+
+  5. [Thông tin người phát triển:](#e-thông-tin-người-phát-triển)
 
 <!--GIỚI THIỆU PROJECT-->
-## A. Giới thiệu
+# A. Giới thiệu
 
 ![app](https://i.imgur.com/VH7hNxi.png)
 **Chức năng:**
@@ -76,29 +66,31 @@
 
 
 <!-- YÊU CẦU PROJECT-->
-## B. Yêu cầu: 
+# B. Yêu cầu
 
 ![vsstudio](/assets/vsstudio.png)
 
 Sử dụng Visual Studio để chạy ứng dụng.
 Sau khi download project, khởi chạy bình thường. Nếu gặp lỗi về thư viện VideoLibrary thì thực hiện theo hướng dẫn bên dưới **(*)**.
 <!--HƯỚNG DẪN CÀI ĐẶT THƯ VIỆN-->
+
 #### Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)
 
 Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko tương thích với Visual Studio hiện hành):
 
-* Sau khi mở project lên. Click chuột phải vào project trên thanh **Solution Explorer**.
-* Sau đó, chọn **"Manage NuGet Packages..."**.
-    - Tại giao diện đó, kiểm tra tại **"Installed"**. Nếu thư viện **VideoLibrary** đã được cài đặt thì gỡ rồi cài đặt lại.
-    - Nếu chưa cài đặt thì chọn vào **"Browse"**. Nhập **VideoLibrary** vào thanh tìm kiếm. Chọn thư viện cùng tên rồi **"Install"**.
+- Sau khi mở project lên. Click chuột phải vào project trên thanh **Solution Explorer**.
+- Sau đó, chọn **"Manage NuGet Packages..."**.
+
+  - Tại giao diện đó, kiểm tra tại **"Installed"**. Nếu thư viện **VideoLibrary** đã được cài đặt thì gỡ rồi cài đặt lại.
+  - Nếu chưa cài đặt thì chọn vào **"Browse"**. Nhập **VideoLibrary** vào thanh tìm kiếm. Chọn thư viện cùng tên rồi **"Install"**.
 
 
 
 <!-- HƯỚNG DẪN KHỞI CHẠY PROJECT-->
-## C. Cách thực thi ứng dụng:
+# C. Cách thực thi ứng dụng:
 
 <!-- KHỞI CHẠY TRỰC TIẾP PROJECT-->
-#### Trực tiếp: (Sau khi tải về)
+### Trực tiếp: (Sau khi tải về)
 
   - Truy cập đường Link **https://github.com/TDTU-IT-DP/FastDownloadManager**
   - Sau đó, chọn nút **Code** -> **Download ZIP**.
@@ -111,6 +103,7 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
 
 <!-- KHỞI CHẠY GIÁN TIẾP PROJECT-->
 #### Gián tiếp: (GitHub)
+
   - Truy cập đường Link **https://github.com/TDTU-IT-DP/FastDownloadManager**
   - Sau đó, chọn nút **Code** -> **Open with Visual Studio**.
   - Thông báo sẽ xuất hiện, chúng ta chọn **"Mở Microsoft Visual Studio Web Protocol Handler Selector"**.
@@ -126,24 +119,29 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
   
 
 <!-- GIỚI THIỆU, LÝ DO ÁP DỤNG PATTERN VÀO PROJECT-->
-# D. Kiến thức cơ bản:
-### Builder Pattern:
+# D. Kiến thức cơ bản
 
-#### Giới thiệu:
+### Builder Pattern
+
+#### Giới thiệu Builder Pattern
+
 >''Builder is a creational design pattern that separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
 Builder pattern thuộc trong một những Creational pattern. Là mẫu thiết kế được tạo ra để xây dựng cho đối tượng phức tạp với nhiều tham số, phương thức. Bằng cách sử dụng đối tượng đơn giản, tiếp cận từng bước vào đối tượng phức tạp thông qua việc xây dựng đối tượng độc lập để cụ thể hóa đối tượng phức tạp.
 
-#### Lý do áp dụng: 
+#### Lý do áp dụng Builder Pattern
+
 - Có quá nhiều tham số được truyền vào constructor của Object.
 - Việc khởi tạo đối tượng với nhiều tham số khiến cả người lập trình trực tiếp cũng tốn nhiều thời gian và khó cho cả người kế thừa hệ thống.
 - Giúp mọi người dễ dàng hiểu cách các parameters được truyền vào một constructor.
 
-#### Thông tin ứng dụng Pattern:
+#### Thông tin ứng dụng Builder Pattern
+
 Object **FileDownloader** là đối tượng khởi tạo trong **Builder pattern**. Tại đây, thay vì khởi tạo trực tiếp thì ta gọi thông qua Interface **IFileBuilder**. Tạo một lớp kế thừa  **IFileBuilder**, tại đây có tất cả các phương thức dùng để tạo ra parameters của  **FileDownloader**.
 
-##### Folder Structure Builder pattern:
-- `FileDownloader`: đối tượng được Builder khởi tạo. 
+##### Folder Structure Builder pattern
+
+- `FileDownloader`: đối tượng được Builder khởi tạo.
 - `IFileBuilder`: (interface) chứa các phương thức khởi tạo parameters của `FileDownloader`.
 - `FileDownloader`: lớp kế thừa `IFileBuilder` khởi tạo parameters trong các hàm override và gán giá trị vào đối tượng `FileDownloader`.
 
@@ -179,8 +177,11 @@ Object **FileDownloader** là đối tượng khởi tạo trong **Builder patte
         }
     }
 ```
-#### Kết quả triển khai:
+
+#### Kết quả triển khai Builder Pattern
+
 **Trước khi áp dụng Pattern:**
+
 ```cs
         //Khởi tạo đối tượng FileDownloader chứa thông tin
         List<FileDownloader> filewonloadersList = new List<FileDownloader>();
@@ -195,7 +196,9 @@ Object **FileDownloader** là đối tượng khởi tạo trong **Builder patte
         //Có quá nhiều parameters được thêm vào mỗi khi khởi tạo Object
         //Khó cho việc đọc code, không biết giá trị thêm vào mang ý nghĩa gì.
 ```
+
 **Sau khi áp dụng Pattern:**
+
 ```cs
         List<FileDownloader> filewonloadersList = new List<FileDownloader>();
 
@@ -218,20 +221,27 @@ Object **FileDownloader** là đối tượng khởi tạo trong **Builder patte
 <!-- CLASS DIAGRAM BUILDER PATTERN-->
 ![BuilderDiagram](/assets/BuilderDiagram.png)
 
-###  Factory Method:
-#### Giới thiệu:
+### Factory Method
+
+#### Giới thiệu Factory Method
+
 >''Factory Method is a creational design pattern that Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 Factory Method Design Pattern hay gọi ngắn gọn là Factory Pattern là một trong những Pattern thuộc nhóm Creational Design Pattern. Nhiệm vụ của Factory Pattern là quản lý và trả về các đối tượng theo yêu cầu, giúp cho việc khởi tạo đổi tượng một cách linh hoạt hơn.
-#### Lý do áp dụng: 
+
+#### Lý do áp dụng Factory Method
+
 - Trong phương thức Download có 2 trường hợp là download file HTML và các file thường (video, git,..)
 - 2 cách download khác biệt nhau nhưng đều chung đầu vào
 - Dễ dàng mở rộng phương thức download khác trong tương lai
-#### Thông tin ứng dụng Pattern:
+
+#### Thông tin ứng dụng Factory Method
+
 - `Extension`: (Super Class) chứa các phương thức khởi tạo parameters.
 - `Download_File , Download_Web`: (Sub Class) implement các phương thức của **super class** theo chức năng của nó.
 - `ExtensionType`: Chứa các loại file hỗ trợ download.
 - `IFactory`: Class chịu trách nhiệm khởi tạo các **sub Class** dựa trên tham số đầu vào
+
 ```cs
 public interface Extension{
   public void run();
@@ -700,7 +710,7 @@ public enum ExtensionType
 }
   
 ```
-#### Kết quả triển khai:
+#### Kết quả triển khai Factory Method:
 **Trước khi áp dụng**
 ```cs
  //TH1: Nếu là file html sẽ download bằng WebClient
@@ -895,7 +905,7 @@ else
 <!-- CLASS DIAGRAM FACTORY METHOD-->
 ![FactoryDiagram](/assets/FactoryDiagram.png)
 
+# E. Thông tin người phát triển:
 
-## Thông tin người phát triển:
-LÊ THÀNH ĐẠT - 51802095
-NGUYỄN NGỌC KHA - 51802083
+- LÊ THÀNH ĐẠT (bạn học).
+- NGUYỄN NGỌC KHA (bạn học).
