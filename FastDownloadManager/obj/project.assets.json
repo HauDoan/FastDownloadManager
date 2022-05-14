@@ -4566,19 +4566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Natsui\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\source demo\\FastDownloadManagerProject\\FastDownloadManager\\FastDownloadManager.csproj",
+      "projectUniqueName": "D:\\BAIHOC\\HKI--HKII--2021\\MauThietKe\\GK\\FastDownloadManager\\FastDownloadManager\\FastDownloadManager.csproj",
       "projectName": "FastDownloadManager",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\source demo\\FastDownloadManagerProject\\FastDownloadManager\\FastDownloadManager.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\source demo\\FastDownloadManagerProject\\FastDownloadManager\\obj\\",
+      "projectPath": "D:\\BAIHOC\\HKI--HKII--2021\\MauThietKe\\GK\\FastDownloadManager\\FastDownloadManager\\FastDownloadManager.csproj",
+      "packagesPath": "C:\\Users\\Natsui\\.nuget\\packages\\",
+      "outputPath": "D:\\BAIHOC\\HKI--HKII--2021\\MauThietKe\\GK\\FastDownloadManager\\FastDownloadManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Natsui\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4619,12 +4619,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.14, 5.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -4633,7 +4627,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

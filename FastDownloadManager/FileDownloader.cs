@@ -39,6 +39,11 @@ namespace FastDownloadManager
             PartT = loc;
         }
 
+        public String toString()
+        {
+            return "Start: " + Start + " Length: " + Length + " Url: " + Url + " Path: " + Path + " Name: " + Name + " Ind: " + Ind + " PartT: " + PartT;
+        }
+
 
     }
 }
