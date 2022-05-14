@@ -32,13 +32,15 @@
 <!-- MỤC LỤC -->
 # Mục lục
 
-  1. [Giới thiệu](#a-giới-thiệu)
-  2. [Yêu cầu:](#b-yêu-cầu)
-    2.1 [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)
-  3. [Cách thực thi ứng dụng:](#c-cách-thực-thi-ứng-dụng)
-    3.1 [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)
-    3.2 [Gián tiếp: (GitHub)](#gián-tiếp-github)
-  4. [Kiến thức cơ bản:](#d-kiến-thức-cơ-bản)
+  1. [Giới thiệu](#a-giới-thiệu)<br>
+   
+  2. [Yêu cầu:](#b-yêu-cầu) <br>
+    2.1 [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)<br>
+    
+  3. [Cách thực thi ứng dụng:](#c-cách-thực-thi-ứng-dụng)<br>
+    3.1 [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)<br>
+    3.2 [Gián tiếp: (GitHub)](#gián-tiếp-github)<br>
+  4. [Kiến thức cơ bản:](#d-kiến-thức-cơ-bản)<br>
       4.1 [Builder Pattern](#builder-pattern)
         - [Giới thiệu](#giới-thiệu-builder-pattern)
         - [Lý do áp dụng](#lý-do-áp-dụng-builder-pattern)
