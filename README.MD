@@ -14,15 +14,15 @@
     <br>
     <br>
 <p>
-        <div style="text-align: right">
-            <p style="line-height: 1.0">
+        <div >
+            <p style="line-height: 1.0; text-align: center;">
                 <i>Giảng viên:</i><b> Thầy Đặng Huỳnh Trung Tín</b>
             </p>
-            <p style="line-height:1.0">
+            <p style="line-height: 1.0; text-align: right;">
                 <i>Người thực hiện:</i>
                     <b>Đoàn Nguyễn Văn Hậu - 51800747</b>
             </p>
-            <p style="line-height:1.0">
+            <p style="line-height: 1.0; text-align: right;">
                     <b>Nguyễn Trường Khương Duy - 51800371 </b>
             </p>
         </div>
