@@ -214,6 +214,6 @@ Object **FileDownloader** là đối tượng khởi tạo trong **Builder patte
 #### Thông tin ứng dụng Pattern:
 #### Kết quả triển khai:
 
-## Thông tin người phát triển:
+# Thông tin người phát triển:
 LÊ THÀNH ĐẠT - 51802095
 NGUYỄN NGỌC KHA - 51802083
