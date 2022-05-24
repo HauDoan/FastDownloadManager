@@ -1,12 +1,13 @@
 <!--THÔNG TIN PROJECT-->
 <br>
 <div align="center">
-  <h6 align="center"style="line-height:0" >TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM </h6>
- <h5 align="center" style="line-height:0.8">TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG </h5>
- <h5 align="center" style="line-height:0">KHOA CÔNG NGHỆ THÔNG TIN</h5>
-  
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+  <div align="center" >TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM </div>
+  <div align="center"  ><b>TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG </b></div>
+  <div align="center" ><b>KHOA CÔNG NGHỆ THÔNG TIN</b></div>
+ 
+  <a href="https://github.com/othneildrew/Best-README-Template" >
+   <br>
+    <img src="assets/LogoTDTBgWhite.png"  style="margin-top: 100px" alt="Logo" width="20%" height="20%">
   </a>
   <h1 align="center">TIỂU LUẬN</h1>
    <h3>Áp dụng Design Pattern vào ứng dụng</h3>
