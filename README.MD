@@ -97,9 +97,10 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
   - Truy cập đường Link **https://github.com/TDTU-IT-DP/FastDownloadManager**
   - Sau đó, chọn nút **Code** -> **Download ZIP**.
   - Kế tiếp, chúng ta click chuột phải extract file **"FastDownloadManager-main.zip"**
-  - Tìm trong các file vừa extract có tên file là:  **"FastDownloadManager.sln"**. Click chuột trái 2 lần vào file.
-  - Nội dung project sẽ xuất hiện. Ta chọn vào nút **"FastDownloadManager"**
-  ![hd-mo-tu-github-3](/assets/hd-mo-tu-github-3.png)
+  - Mở thư mục vừa extract ra rồi làm theo hướng dẫn bên dưới.
+  - Sau đó, follow theo đường dẫn sau để mở ứng dụng:
+    - Chọn folder ``FastDownloadManager`` -> ``bin`` -> ``Debug`` -> ``net5.0-windows``. 
+    - Cuối cùng chọn mở file: ``FastDownloadManager.exe`` 
   - Giao diện hệ thống sẽ xuất hiện.
   ![hd-mo-tu-github-4](/assets/hd-mo-tu-github-4.png)
 
