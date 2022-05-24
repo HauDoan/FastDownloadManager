@@ -1,6 +1,10 @@
 <!--THÔNG TIN PROJECT-->
 <br>
 <div align="center">
+  <h6 align="center"style="line-height:0" >TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM </h6>
+ <h5 align="center" style="line-height:0.8">TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG </h5>
+ <h5 align="center" style="line-height:0">KHOA CÔNG NGHỆ THÔNG TIN</h5>
+  
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
