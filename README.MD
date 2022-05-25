@@ -38,9 +38,12 @@
 # Mục lục
 
   1. [Giới thiệu](#1-giới-thiệu)<br>
-   
+    1.1 [Chức năng:](#11-chức-năng)<br>
+    1.2 [Vấn đề của project:](#12-vấn-đề-của-project)
+      - [Vấn đề 1:](#vấn-đề-1)
+      - [Vấn đề 2:](#vấn-đề-2)
   2. [Yêu cầu:](#2-yêu-cầu) <br>
-    2.1 [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)<br>
+    [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)<br>
     
   3. [Cách thực thi ứng dụng:](#3-cách-thực-thi-ứng-dụng)<br>
     3.1 [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)<br>
@@ -65,17 +68,17 @@
 # 1. Giới thiệu
 
 ![app](https://i.imgur.com/VH7hNxi.png)
-**Chức năng:**
+## 1.1 Chức năng:
 
 * Ứng dụng FastDownloadManager dùng để download các file từ link nhập vào.
 * Có thể download nhiều file cùng một lúc.
 * Ứng dụng đa luồng vào việc chia nhỏ các file thành từng phần (Task) để download trong thread.
-* 
-**Vấn đề của project:**
-- **Vấn đề 1:**
+
+## 1.2 Vấn đề của project: 
+### Vấn đề 1:
    - Là một ứng dụng dùng để download file thì đối mỗi file thì sẽ có nhiều thông tin. Và việc khởi tạo có quá nhiều tham số được truyền vào constructor của Object.
    - Việc khởi tạo đối tượng với nhiều tham số khiến cả người lập trình trực tiếp cũng tốn nhiều thời gian và khó cho cả người kế thừa hệ thống.
-- **Vấn đề 2:**
+### Vấn đề 2:
   - Quá trình thực hiện download có rất nhiều loại file: **html, mp3, mp4, docx, pdf,...**. Mà việc thực hiện này chỉ viết trên một hàm sẽ khó cho việc maintain và phân loại các loại file download.
   - Ngoài ra, việc thực hiện chung các loại file với nhau sẽ gặp vấn đề nếu **phát sinh thêm một loại file download mới** thì phải đọc hiểu sửa chữa cấu trúc toàn bộ hàm tải file. 
 
