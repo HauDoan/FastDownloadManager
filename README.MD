@@ -7,7 +7,7 @@
  
   <a href="https://github.com/othneildrew/Best-README-Template" >
    <br>
-    <img src="assets/LogoTDTBgWhite.png"  style="margin-top: 100px" alt="Logo" width="20%" height="20%">
+    <img src="assets/LogoTDTBgWhite.png"  alt="Logo" width="20%" height="20%">
   </a>
   <h1 align="center">TIỂU LUẬN</h1>
    <h3>Áp dụng Design Pattern vào ứng dụng</h3>
