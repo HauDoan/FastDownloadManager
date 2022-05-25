@@ -21,7 +21,7 @@
 <p>
         <div >
             <p style="line-height: 1.0" dir ="rtl">
-                <i>Giảng viên:</i><b> Thầy Đặng Huỳnh Trung Tín</b>
+                <i>Giảng viên:</i><b>Đặng Huỳnh Trung Tín</b>
             </p>
             <p style="line-height: 1.0"dir ="rtl">
                 <i>Người thực hiện:</i>
@@ -70,7 +70,14 @@
 * Ứng dụng FastDownloadManager dùng để download các file từ link nhập vào.
 * Có thể download nhiều file cùng một lúc.
 * Ứng dụng đa luồng vào việc chia nhỏ các file thành từng phần (Task) để download trong thread.
-
+* 
+**Vấn đề của project:**
+- **Vấn đề 1:**
+   - Là một ứng dụng dùng để download file thì đối mỗi file thì sẽ có nhiều thông tin. Và việc khởi tạo có quá nhiều tham số được truyền vào constructor của Object.
+   - Việc khởi tạo đối tượng với nhiều tham số khiến cả người lập trình trực tiếp cũng tốn nhiều thời gian và khó cho cả người kế thừa hệ thống.
+- **Vấn đề 2:**
+  - Quá trình thực hiện download có rất nhiều loại file: **html, mp3, mp4, docx, pdf,...**. Mà việc thực hiện này chỉ viết trên một hàm sẽ khó cho việc maintain và phân loại các loại file download.
+  - Ngoài ra, việc thực hiện chung các loại file với nhau sẽ gặp vấn đề nếu **phát sinh thêm một loại file download mới** thì phải đọc hiểu sửa chữa cấu trúc toàn bộ hàm tải file. 
 
 <!-- YÊU CẦU PROJECT-->
 # 2. Yêu cầu
@@ -138,9 +145,9 @@ Cài đặt **VideoLibrary** trong NuGet Package (Nếu NuGet Package project ko
 Builder pattern thuộc trong một những Creational pattern. Là mẫu thiết kế được tạo ra để xây dựng cho đối tượng phức tạp với nhiều tham số, phương thức. Bằng cách sử dụng đối tượng đơn giản, tiếp cận từng bước vào đối tượng phức tạp thông qua việc xây dựng đối tượng độc lập để cụ thể hóa đối tượng phức tạp.
 
 #### Lý do áp dụng Builder Pattern
-
-- Có quá nhiều tham số được truyền vào constructor của Object.
-- Việc khởi tạo đối tượng với nhiều tham số khiến cả người lập trình trực tiếp cũng tốn nhiều thời gian và khó cho cả người kế thừa hệ thống.
+- Tăng khả năng đọc hiểu nếu có người kế thừa hệ thống
+- Khi thực hiện thêm các parameters cho object thì không cần quan tâm đến vị trí của của parameters có đúng hay không?.
+- Dễ dàng tùy chỉnh phù hợp các constructor theo ý muốn của mình(**có nhiều parameter = null**).
 - Giúp mọi người dễ dàng hiểu cách các parameters được truyền vào một constructor.
 
 #### Thông tin ứng dụng Builder Pattern
