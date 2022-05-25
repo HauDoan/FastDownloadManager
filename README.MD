@@ -21,7 +21,7 @@
 <p>
         <div >
             <p style="line-height: 1.0" dir ="rtl">
-                <i>Giảng viên:</i><b>Đặng Huỳnh Trung Tín</b>
+                <i>Giảng viên:</i><b> Đặng Huỳnh Trung Tín</b>
             </p>
             <p style="line-height: 1.0"dir ="rtl">
                 <i>Người thực hiện:</i>
