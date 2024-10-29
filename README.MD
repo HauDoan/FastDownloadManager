@@ -1,72 +1,7 @@
 <!--THÔNG TIN PROJECT-->
-<br>
-<div align="center">
-  <div align="center" >TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM </div>
-  <div align="center"  ><b>TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG </b></div>
-  <div align="center" ><b>KHOA CÔNG NGHỆ THÔNG TIN</b></div>
- 
-  <a href="https://github.com/othneildrew/Best-README-Template" >
-   <br>
-    <img src="assets/LogoTDTBgWhite.png"  alt="Logo" width="20%" height="20%">
-  </a>
-  <h1 align="center">TIỂU LUẬN</h1>
-   <h3>Áp dụng Design Pattern vào ứng dụng</h3>
-<br>
-
-</div>
-    <br>
-    <br>
-    <br>
-    <br>
-<p>
-        <div >
-            <p style="line-height: 1.0" dir ="rtl">
-                <i>Giảng viên:</i><b> Đặng Huỳnh Trung Tín</b>
-            </p>
-            <p style="line-height: 1.0"dir ="rtl">
-                <i>Người thực hiện:</i>
-                    <b>Đoàn Nguyễn Văn Hậu - 51800747</b>
-            </p>
-            <p style="line-height: 1.0" dir ="rtl">
-                    <b>Nguyễn Trường Khương Duy - 51800371 </b>
-            </p>
-        </div>
-</p>
-<br>
-
+<h3>Áp dụng Design Pattern vào ứng dụng</h3>
 <!-- MỤC LỤC -->
-# Mục lục
-
-  1. [Giới thiệu](#1-giới-thiệu)<br>
-    1.1 [Chức năng:](#11-chức-năng)<br>
-    1.2 [Vấn đề của project:](#12-vấn-đề-của-project)
-      - [Vấn đề 1:](#vấn-đề-1)
-      - [Vấn đề 2:](#vấn-đề-2)
-  2. [Yêu cầu:](#2-yêu-cầu) <br>
-    [Hướng dẫn cài đặt VideoLibrary (Nuget Package) (*)](#hướng-dẫn-cài-đặt-videolibrary-nuget-package-)<br>
-    
-  3. [Cách thực thi ứng dụng:](#3-cách-thực-thi-ứng-dụng)<br>
-    3.1 [Trực tiếp: (Sau khi tải về)](#trực-tiếp-sau-khi-tải-về)<br>
-    3.2 [Gián tiếp: (GitHub)](#gián-tiếp-github)<br>
-  4. [Kiến thức cơ bản:](#4-kiến-thức-cơ-bản)<br>
-      4.1 [Builder Pattern](#builder-pattern)
-        - [Giới thiệu](#giới-thiệu-builder-pattern)
-        - [Lý do áp dụng](#lý-do-áp-dụng-builder-pattern)
-        - [Thông tin ứng dụng Pattern](#thông-tin-ứng-dụng-builder-pattern)
-        - [Folder Structure Builder pattern:](#folder-structure-builder-pattern)
-        - [Kết quả triển khai](#kết-quả-triển-khai-builder-pattern)
-
-      4.2 [Factory Method](#factory-method)
-        - [Giới thiệu](#giới-thiệu-factory-method)
-        - [Lý do áp dụng](#lý-do-áp-dụng-factory-method)
-        - [Thông tin ứng dụng](#thông-tin-ứng-dụng-factory-method)
-        - [Kết quả triển khai](#kết-quả-triển-khai-factory-method)
-
-  5. [Thông tin người phát triển:](#5-thông-tin-người-phát-triển)
-
-<!--GIỚI THIỆU PROJECT-->
 # 1. Giới thiệu
-
 ![app](https://i.imgur.com/VH7hNxi.png)
 ## 1.1 Chức năng:
 
@@ -919,11 +854,5 @@ else
   extension.run();
 }
 ```
-
 <!-- CLASS DIAGRAM FACTORY METHOD-->
 ![FactoryDiagram](/assets/FactoryDiagram.png)
-
-# 5. Thông tin người phát triển:
-
-- LÊ THÀNH ĐẠT (bạn học).
-- NGUYỄN NGỌC KHA (bạn học).
