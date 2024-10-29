@@ -1,11 +1,10 @@
 <!--THÔNG TIN PROJECT-->
-<h3>Áp dụng Design Pattern vào ứng dụng</h3>
+# Áp dụng Design Pattern vào ứng dụng
 <!-- MỤC LỤC -->
-# 1. Giới thiệu
-
-- [](https://i.imgur.com/VH7hNxi.png)
-
+# 1. Giới thiệu:
 ## 1.1 Chức năng:
+
+- ![alt text](https://github.com/HauDoan/haudoan.github.io/blob/main/public/assets/img/fast-download-project.png?raw=true)
 
 * Ứng dụng FastDownloadManager dùng để download các file từ link nhập vào.
 * Có thể download nhiều file cùng một lúc.
