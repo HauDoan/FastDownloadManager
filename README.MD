@@ -1,5 +1,5 @@
 <!--THÔNG TIN PROJECT-->
-# Áp dụng Design Pattern vào ứng dụng
+# Áp dụng Design Patterns
 <!-- MỤC LỤC -->
 # 1. Giới thiệu:
 ## 1.1 Chức năng:
