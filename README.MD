@@ -2,7 +2,9 @@
 <h3>Áp dụng Design Pattern vào ứng dụng</h3>
 <!-- MỤC LỤC -->
 # 1. Giới thiệu
-![app](https://i.imgur.com/VH7hNxi.png)
+
+- [](https://i.imgur.com/VH7hNxi.png)
+
 ## 1.1 Chức năng:
 
 * Ứng dụng FastDownloadManager dùng để download các file từ link nhập vào.
